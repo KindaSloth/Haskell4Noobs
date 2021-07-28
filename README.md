@@ -8,13 +8,13 @@
 
 ### Project Ideas (Todo List)
 
-- [] Json Parser
-- [] Jwt Parser
-- [] Lambda Parser
-- [] Sass to css Parser
-- [] JavaScript Parser
-- [] C Parser
-- [] Crudzinho?
+- [ ] Json Parser
+- [ ] Jwt Parser
+- [ ] Lambda Parser
+- [ ] Sass to css Parser
+- [ ] JavaScript Parser
+- [ ] C Parser
+- [ ] Crudzinho?
 
 ### Links
 
