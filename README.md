@@ -4,7 +4,7 @@
   <img src="./images/icon.png" alt="haskell" width="240">
 </h1>
 
-## Único roadmap de Haskell possível, do noob ao Thanos
+### Único roadmap de Haskell possível, do noob ao Thanos
 
 ### Project Ideas (Todo List)
 
