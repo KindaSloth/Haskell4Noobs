@@ -10,6 +10,7 @@
 
 - [] Json Parser
 - [] Jwt Parser
+- [] Lambda Parser
 - [] Sass to css Parser
 - [] JavaScript Parser
 - [] C Parser
