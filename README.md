@@ -8,6 +8,7 @@
 
 ### Project Ideas (Todo List)
 
+- [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell) 
 - [ ] Json Parser
 - [ ] Jwt Parser
 - [ ] Lambda Parser
@@ -18,8 +19,9 @@
 
 ### Links
 
-- [Curso Haskell para Iniciantes](https://www.youtube.com/watch?v=L_GvP5XTJj4&list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)
-- [Thanosmath playlist sobre programação funcional](https://www.youtube.com/watch?v=dNj89iIh14E&list=PLlWL3aOWFGDiNA6VIeunnAlg8lsQkevTk)
+- [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)
+- [Thanosmath playlist sobre programação funcional](https://www.youtube.com/playlist?list=PLlWL3aOWFGDiNA6VIeunnAlg8lsQkevTk)
+- [Programação Funcional em Haskell - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ)
 
 ### Cursos
 
