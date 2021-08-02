@@ -34,3 +34,4 @@
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [Haskell Programming from first principles](https://haskellbook.com/)
+- [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
