@@ -8,7 +8,7 @@
 
 ### Project Ideas (Todo List)
 
-- [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell) 
+- [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
 - [ ] Json Parser
 - [ ] Jwt Parser
 - [ ] Lambda Parser
@@ -24,6 +24,7 @@
 - [Programação Funcional em Haskell - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ)
 - [Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 - [Advanced Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
+- [FPComplete Haskell](https://www.fpcomplete.com/haskell/)
 
 ### Cursos
 
