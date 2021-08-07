@@ -36,6 +36,8 @@
 | [Real World Haskell](http://book.realworldhaskell.org/read/) | 🇺🇸 | Não |
 | [Haskell Programming from first principles](https://haskellbook.com/) | 🇺🇸 | Sim |
 | [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html) | 🇺🇸 | Sim |
+| [Livro de Haskell](https://www.casadocodigo.com.br/products/livro-haskell) | 🇧🇷 | Sim |
+| [Yesod e Haskell](https://www.casadocodigo.com.br/products/livro-yesod-haskell) | 🇧🇷 | Sim |
 
 ### Ideias de projetos (Todo List)
 
