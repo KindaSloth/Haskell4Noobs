@@ -1,0 +1,49 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "Guilherme775",
+      "name": "Guilherme dos Reis Meira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55771765?v=4",
+      "profile": "https://github.com/Guilherme775",
+      "contributions": [
+        "content",
+        "doc",
+        "code",
+        "maintenance",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "antoniel",
+      "name": "Antoniel Magalhães",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17225358?v=4",
+      "profile": "https://github.com/antoniel",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "Camilotk",
+      "name": "Camilo Cunha de Azevedo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30880723?v=4",
+      "profile": "https://github.com/Camilotk",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Haskell4Noobs",
+  "projectOwner": "Guilherme775",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
