@@ -6,17 +6,6 @@
 
 <p align="center">Único roadmap de Haskell possível, do noob ao Thanos</p>
 
-### Ideias de projetos (Todo List)
-
-- [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
-- [ ] Json Parser
-- [ ] Jwt Parser
-- [ ] Lambda Parser
-- [ ] Sass to css Parser
-- [ ] JavaScript Parser
-- [ ] C Parser
-- [ ] Crudzinho?
-
 ### Links
 
 - [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)
@@ -40,3 +29,14 @@
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [Haskell Programming from first principles](https://haskellbook.com/)
 - [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+
+### Ideias de projetos (Todo List)
+
+- [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
+- [ ] Json Parser
+- [ ] Jwt Parser
+- [ ] Lambda Parser
+- [ ] Sass to css Parser
+- [ ] JavaScript Parser
+- [ ] C Parser
+- [ ] Crudzinho?
