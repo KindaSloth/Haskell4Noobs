@@ -1,9 +1,14 @@
 {
+  "projectName": "Haskell4Noobs",
+  "projectOwner": "Guilherme775",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "commit": true,
+  "commitConvention": "none",
   "contributors": [
     {
       "login": "Guilherme775",
@@ -39,11 +44,5 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
-  "projectName": "Haskell4Noobs",
-  "projectOwner": "Guilherme775",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true,
-  "commitConvention": "none"
+  "contributorsPerLine": 7
 }
