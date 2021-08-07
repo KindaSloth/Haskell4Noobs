@@ -6,7 +6,7 @@
 
 <p align="center">Único roadmap de Haskell possível, do noob ao Thanos</p>
 
-### Ideias de projeto (Todo List)
+### Ideias de projetos (Todo List)
 
 - [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
 - [ ] Json Parser
