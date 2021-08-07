@@ -6,7 +6,7 @@
 
 <p align="center">Único roadmap de Haskell possível, do noob ao Thanos</p>
 
-### Project Ideas (Todo List)
+### Ideias de projeto (Todo List)
 
 - [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
 - [ ] Json Parser
@@ -26,11 +26,15 @@
 - [Advanced Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
 - [FPComplete Haskell](https://www.fpcomplete.com/haskell/)
 
+### Exercícios
+
+- [Correção das listas de exercícios - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk)
+
 ### Cursos
 
 - [Curso Haskell para Iniciantes](https://www.udemy.com/course/curso-haskell/)
 
-### Books
+### Livros
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
