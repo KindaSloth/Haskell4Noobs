@@ -19,22 +19,23 @@
 | [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell) | 🇺🇸 | Sim |
 
 ### Exercícios
-
-- [Correção das listas de exercícios - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk)
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
+| [Correção das listas de exercícios - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk)  | 🇧🇷 | Não |
 
 ### Cursos
-
-- [Curso Haskell para Iniciantes](https://www.udemy.com/course/curso-haskell/)
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
+| [Curso Haskell para Iniciantes](https://www.udemy.com/course/curso-haskell/) | 🇧🇷 | Não |
+| [Type Classes](https://typeclasses.com/) | 🇺🇸 | Sim |
 
 ### Livros
-
-- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-- [Real World Haskell](http://book.realworldhaskell.org/read/)
-- [Haskell Programming from first principles](https://haskellbook.com/)
-- [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
-
-### Plataformas de Aprendizado
-- [Type Classes](https://typeclasses.com/)
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
+| [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) | 🇺🇸 | Não |
+| [Real World Haskell](http://book.realworldhaskell.org/read/) | 🇺🇸 | Não |
+| [Haskell Programming from first principles](https://haskellbook.com/) | 🇺🇸 | Sim |
+| [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html) | 🇺🇸 | Sim |
 
 ### Ideias de projetos (Todo List)
 
