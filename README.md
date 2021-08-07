@@ -20,6 +20,7 @@
 | [Advanced Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc) | 🇺🇸 | Não |
 | [FPComplete Haskell](https://www.fpcomplete.com/haskell/) | 🇺🇸 | Sim |
 | [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell) | 🇺🇸 | Sim |
+| [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV) | 🇺🇸 | Não |
 
 ### Exercícios
 | Nome  | Idioma | Pago? |
