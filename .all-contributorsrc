@@ -3,8 +3,7 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": true,
-  "commitConvention": "none",
+  "commit": false,
   "contributors": [
     {
       "login": "Guilherme775",
