@@ -44,5 +44,6 @@
   "projectOwner": "Guilherme775",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none"
 }
