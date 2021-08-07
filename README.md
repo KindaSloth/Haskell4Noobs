@@ -14,6 +14,8 @@
 - [Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 - [Advanced Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
 - [FPComplete Haskell](https://www.fpcomplete.com/haskell/)
+- [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell)
+- [Haskell - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8)
 
 ### Exercícios
 
@@ -29,6 +31,9 @@
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [Haskell Programming from first principles](https://haskellbook.com/)
 - [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+
+### Plataformas de Aprendizado
+- [Type Classes](https://typeclasses.com/)
 
 ### Ideias de projetos (Todo List)
 
