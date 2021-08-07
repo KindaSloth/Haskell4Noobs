@@ -15,7 +15,7 @@
 - [Advanced Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
 - [FPComplete Haskell](https://www.fpcomplete.com/haskell/)
 - [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell)
-- [https://www.futurelearn.com/courses/functional-programming-haskell](https://www.edx.org/course/introduction-to-functional-programming?index=product&queryID=0d68592671beafc9b8a28f909dd7d103&position=1)
+- [Haskell - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8)
 
 ### Exercícios
 
