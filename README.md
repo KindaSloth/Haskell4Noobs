@@ -22,6 +22,8 @@
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
 | [Correção das listas de exercícios - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk)  | 🇧🇷 | Não |
+| [99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)  | 🇺🇸 | Não |
+
 
 ### Cursos
 | Nome  | Idioma | Pago? |
@@ -32,6 +34,7 @@
 ### Livros
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
+| [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/) | 🇺🇸 | Não |
 | [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) | 🇺🇸 | Não |
 | [Real World Haskell](http://book.realworldhaskell.org/read/) | 🇺🇸 | Não |
 | [Haskell Programming from first principles](https://haskellbook.com/) | 🇺🇸 | Sim |
