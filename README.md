@@ -44,6 +44,7 @@
 | [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html) | 🇺🇸 | Sim |
 | [Livro de Haskell](https://www.casadocodigo.com.br/products/livro-haskell) | 🇧🇷 | Sim |
 | [Yesod e Haskell](https://www.casadocodigo.com.br/products/livro-yesod-haskell) | 🇧🇷 | Sim |
+| [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) | 🇺🇸 | Não |
 
 ### Ideias de projetos (Todo List)
 
