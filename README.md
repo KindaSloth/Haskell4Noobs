@@ -1,6 +1,6 @@
 # Haskell4Noobs
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h1 align="center">
@@ -81,6 +81,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/antoniel"><img src="https://avatars.githubusercontent.com/u/17225358?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antoniel Magalhães</b></sub></a><br /><a href="#content-antoniel" title="Content">🖋</a> <a href="https://github.com/Guilherme775/Haskell4Noobs/commits?author=antoniel" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Camilotk"><img src="https://avatars.githubusercontent.com/u/30880723?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Camilo Cunha de Azevedo</b></sub></a><br /><a href="#content-Camilotk" title="Content">🖋</a> <a href="https://github.com/Guilherme775/Haskell4Noobs/commits?author=Camilotk" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/miguel-nascimento"><img src="https://avatars.githubusercontent.com/u/31226227?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miguel Gomes</b></sub></a><br /><a href="#content-miguel-nascimento" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/matdsoupe"><img src="https://avatars.githubusercontent.com/u/44469426?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matheus de Souza Pessanha</b></sub></a><br /><a href="#content-matdsoupe" title="Content">🖋</a></td>
   </tr>
 </table>
 
