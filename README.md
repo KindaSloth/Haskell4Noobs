@@ -47,6 +47,16 @@
 | [Yesod e Haskell](https://www.casadocodigo.com.br/products/livro-yesod-haskell) | 🇧🇷 | Sim |
 | [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) | 🇺🇸 | Não |
 
+### Comunidade
+
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
+| [Haskell-BR](https://t.me/haskellbr) | 🇧🇷 | Não |
+| [Haskell Fórum](https://discourse.haskell.org) | 🇺🇸 | Não |
+| [Haskell Weekly](https://haskellweekly.news/) | 🇺🇸 | Não |
+| [Reddit](https://www.reddit.com/r/haskell/) | 🇺🇸 | Não |
+
+
 ### Ideias de projetos (Todo List)
 
 - [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
