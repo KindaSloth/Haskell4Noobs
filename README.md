@@ -51,10 +51,10 @@
 
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
-| [Haskell-BR](https://t.me/haskellbr) | 🇧 | Não |
-| [Haskell Fórum](https://discourse.haskell.org) | 🇺 | Não |
-| [Haskell Weekly](https://haskellweekly.news/) | 🇺 | Não |
-| [Reddit](https://www.reddit.com/r/haskell/) | 🇺 | Não |
+| [Haskell-BR](https://t.me/haskellbr) | 🇧🇷 | Não |
+| [Haskell Fórum](https://discourse.haskell.org) | 🇺🇸 | Não |
+| [Haskell Weekly](https://haskellweekly.news/) | 🇺🇸 | Não |
+| [Reddit](https://www.reddit.com/r/haskell/) | 🇺🇸 | Não |
 
 
 ### Ideias de projetos (Todo List)
