@@ -60,7 +60,7 @@
 ### Ideias de projetos (Todo List)
 
 - [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
-- [ ] Json Parser
+- [x] [Json Parser](https://github.com/Guilherme775/json-parser)
 - [ ] Jwt Parser
 - [ ] Lambda Parser
 - [ ] Sass to css Parser
