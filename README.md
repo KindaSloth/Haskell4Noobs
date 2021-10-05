@@ -61,11 +61,9 @@
 
 - [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
 - [x] [Json Parser](https://github.com/Guilherme775/json-parser)
-- [ ] Jwt Parser
+- [x] [Markdown Compiler](https://github.com/Guilherme775/tiny-markdown-compiler)
+- [ ] Css Parser
 - [ ] Lambda Parser
-- [ ] Sass to css Parser
-- [ ] JavaScript Parser
-- [ ] C Parser
 - [ ] Crudzinho?
 
 ## Contributors ✨
