@@ -24,7 +24,6 @@
 | [Serokell blog posts about Haskell](https://serokell.io/blog/haskell) | 🇺🇸 | Não |
 | [Serokell Haskell Course (Source)](https://github.com/serokell/hse-haskell-course-src) | 🇺🇸 | Não |
 
-
 ### Exercícios
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
@@ -32,7 +31,6 @@
 | [99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)  | 🇺🇸 | Não |
 
 ### Cursos
-
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
 | [Curso Haskell para Iniciantes](https://www.udemy.com/course/curso-haskell/) | 🇧🇷 | Não |
@@ -51,14 +49,12 @@
 | [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) | 🇺🇸 | Não |
 
 ### Comunidade
-
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
 | [Haskell-BR](https://t.me/haskellbr) | 🇧🇷 | Não |
 | [Haskell Fórum](https://discourse.haskell.org) | 🇺🇸 | Não |
 | [Haskell Weekly](https://haskellweekly.news/) | 🇺🇸 | Não |
 | [Reddit](https://www.reddit.com/r/haskell/) | 🇺🇸 | Não |
-
 
 ### Ideias de projetos (Todo List)
 
