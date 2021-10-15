@@ -22,14 +22,17 @@
 | [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell) | 🇺🇸 | Sim |
 | [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV) | 🇺🇸 | Não |
 | [Serokell blog posts about Haskell](https://serokell.io/blog/haskell) | 🇺🇸 | Não |
+| [Serokell Haskell Course (Source)](https://github.com/serokell/hse-haskell-course-src) | 🇺🇸 | Não |
+
+
 ### Exercícios
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
 | [Correção das listas de exercícios - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk)  | 🇧🇷 | Não |
 | [99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)  | 🇺🇸 | Não |
 
-
 ### Cursos
+
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
 | [Curso Haskell para Iniciantes](https://www.udemy.com/course/curso-haskell/) | 🇧🇷 | Não |
