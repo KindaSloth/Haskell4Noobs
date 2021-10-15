@@ -69,6 +69,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "samueldurantes",
+      "name": "Samuel Durante",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44513615?v=4",
+      "profile": "https://github.com/samueldurantes",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

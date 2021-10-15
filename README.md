@@ -1,6 +1,6 @@
 # Haskell4Noobs
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h1 align="center">
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/miguel-nascimento"><img src="https://avatars.githubusercontent.com/u/31226227?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miguel Gomes</b></sub></a><br /><a href="#content-miguel-nascimento" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/matdsoupe"><img src="https://avatars.githubusercontent.com/u/44469426?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matheus de Souza Pessanha</b></sub></a><br /><a href="#content-matdsoupe" title="Content">🖋</a></td>
     <td align="center"><a href="https://sourcerer.io/lucasfloriani"><img src="https://avatars.githubusercontent.com/u/36285126?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Alexander Floriani</b></sub></a><br /><a href="#content-lucasfloriani" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/samueldurantes"><img src="https://avatars.githubusercontent.com/u/44513615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samuel Durante</b></sub></a><br /><a href="#content-samueldurantes" title="Content">🖋</a></td>
   </tr>
 </table>
 
