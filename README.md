@@ -59,10 +59,8 @@
 ### Ideias de projetos (Todo List)
 
 - [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
-- [x] [Json Parser](https://github.com/Guilherme775/json-parser)
-- [x] [Markdown Compiler](https://github.com/Guilherme775/tiny-markdown-compiler)
-- [ ] Css Parser
-- [ ] Lambda Parser
+- [x] [Parsers from scratch](https://github.com/Guilherme775/Parsers-Scratch)
+- [x] [Parsers using Parsec](https://github.com/Guilherme775/Parsers-Parsec)
 - [ ] Crudzinho?
 
 ## Contributors ✨
