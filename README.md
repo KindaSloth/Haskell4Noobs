@@ -58,8 +58,8 @@
 
 ### Ideias de projetos (Todo List)
 
-- [x] [Red Black Tree](https://github.com/Guilherme775/RBTree-Haskell)
 - [x] [Binary Search Tree](https://github.com/Guilherme775/bst-haskell)
+- [x] [Red Black Tree](https://github.com/Guilherme775/RBTree-Haskell)
 - [x] [Parsers from scratch](https://github.com/Guilherme775/Parsers-Scratch)
 - [x] [Parsers using Parsec](https://github.com/Guilherme775/Parsers-Parsec)
 - [ ] Crudzinho?
