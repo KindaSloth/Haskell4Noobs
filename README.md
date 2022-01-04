@@ -62,6 +62,7 @@
 - [x] [Red Black Tree](https://github.com/Guilherme775/RBTree-Haskell)
 - [x] [Parsers from scratch](https://github.com/Guilherme775/Parsers-Scratch)
 - [x] [Parsers using Parsec](https://github.com/Guilherme775/Parsers-Parsec)
+- [x] [Lambda calculus interpreter](https://github.com/Guilherme775/Lambdinha)
 - [ ] Crudzinho?
 
 ## Contributors ✨
