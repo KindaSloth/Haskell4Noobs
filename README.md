@@ -35,6 +35,8 @@
 |:--    |:--:    |:--:   |
 | [Curso Haskell para Iniciantes](https://www.udemy.com/course/curso-haskell/) | 🇧🇷 | Não |
 | [Type Classes](https://typeclasses.com/) | 🇺🇸 | Sim |
+| [Functional Programming in Haskell](https://www.youtube.com/watch?v=a0fPHkzK36I&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) | 🇺🇸 | Não |
+| [Advanced Functional Programming in Haskell](https://www.youtube.com/watch?v=-qhbNGghVfc&list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc) | 🇺🇸 | Não |
 
 ### Livros
 | Nome  | Idioma | Pago? |
