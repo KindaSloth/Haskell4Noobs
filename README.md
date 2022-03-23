@@ -12,12 +12,9 @@
 ### Links
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
-| [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)                     | 🇧🇷 | Não |
 | [Thanosmath playlist sobre programação funcional](https://www.youtube.com/playlist?list=PLlWL3aOWFGDiNA6VIeunnAlg8lsQkevTk)   | 🇧🇷 | Não |
 | [Programação Funcional em Haskell - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ)          | 🇧🇷 | Não |
-| [Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) | 🇺🇸 | Não |
 | [Haskell - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8) | 🇺🇸 | Não
-| [Advanced Functional Programming in Haskell - Graham Hutton](https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc) | 🇺🇸 | Não |
 | [FPComplete Haskell](https://www.fpcomplete.com/haskell/) | 🇺🇸 | Sim |
 | [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell) | 🇺🇸 | Sim |
 | [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV) | 🇺🇸 | Não |
