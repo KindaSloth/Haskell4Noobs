@@ -40,6 +40,7 @@
 |:--    |:--:    |:--:   |
 | [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/) | 🇺🇸 | Não |
 | [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) | 🇺🇸 | Não |
+| [Tradução Learn You a Haskell for Great Good!](http://haskell.tailorfontela.com.br/chapters) | 🇧🇷 | Não |
 | [Real World Haskell](http://book.realworldhaskell.org/read/) | 🇺🇸 | Não |
 | [Haskell Programming from first principles](https://haskellbook.com/) | 🇺🇸 | Sim |
 | [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html) | 🇺🇸 | Sim |
