@@ -12,6 +12,7 @@
 ### Links
 | Nome  | Idioma | Pago? |
 |:--    |:--:    |:--:   |
+| [Um rápido Hello World com Haskell](https://dev.to/clerijr/um-rapido-hello-world-com-haskell-h39) | 🇧🇷 | Não |
 | [Thanosmath playlist sobre programação funcional](https://www.youtube.com/playlist?list=PLlWL3aOWFGDiNA6VIeunnAlg8lsQkevTk)   | 🇧🇷 | Não |
 | [Programação Funcional em Haskell - UFABC](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ)          | 🇧🇷 | Não |
 | [Haskell - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8) | 🇺🇸 | Não
